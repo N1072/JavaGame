@@ -27,6 +27,7 @@ Game.jarを起動すると、ファイル選択画面が出てきます。
 |エンターキー|やり直し|
 |Escキー|終了|
 |スペースキー|次のステージへ(クリア済みなら)|
+
 ※矢印キーの操作に関しては、重力の方向に合わせて、キーの向きも変わります。
 
 
@@ -89,5 +90,4 @@ test3.stage
 もう１つ入っている「SIL_Open_Font_License_1.1」は、
 そのフォントのライセンス表示です。
 
-日本語訳はこちら↓
-https://licenses.opensource.jp/OFL-1.1/OFL-1.1.html
+[日本語訳はこちら](https://licenses.opensource.jp/OFL-1.1/OFL-1.1.html)
